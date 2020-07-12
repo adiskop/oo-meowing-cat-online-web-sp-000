@@ -7,3 +7,5 @@ def meow
 end
 
 end
+
+maru.name
